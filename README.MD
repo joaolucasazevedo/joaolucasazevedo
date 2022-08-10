@@ -16,7 +16,7 @@
  
 <div>
   
-  <a href="https://www.instagram.com/joaoazevedo.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.instagram.com/joaoazevedo.dev](https://api.whatsapp.com/send?phone=5527995777433&text=Ol%C3%A1%2C%20Tudo%20bem%3F%F0%9F%98%8A)" target="_blank"><img src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" target="_blank"></a>
   
   <a href="https://www.instagram.com/joaoazevedo.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatojoaoazevedo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
