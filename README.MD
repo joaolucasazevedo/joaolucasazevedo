@@ -1,9 +1,8 @@
 ## Oiii eu sou o João Lucas Azevedo
 
-<div  align="center">
+<div>
   <a href="https://github.com/joaolucasazevedo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaolucasazevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasazevedo&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaolucasazevedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline_block"><br>
