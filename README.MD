@@ -1,4 +1,4 @@
-## Oiii eu sou o João Lucas Azevedo
+## Oie, eu sou o João Lucas Azevedo
 
 <div>
   <a href="https://github.com/joaolucasazevedo">
